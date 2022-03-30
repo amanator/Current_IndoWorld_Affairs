@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Current_IndoWorld_Affairs/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/Current_IndoWorld_Affairs/static/js/main.6cf85bae.chunk.js",
+    "main.js.map": "/Current_IndoWorld_Affairs/static/js/main.6cf85bae.chunk.js.map",
+    "runtime-main.js": "/Current_IndoWorld_Affairs/static/js/runtime-main.db0952c9.js",
+    "runtime-main.js.map": "/Current_IndoWorld_Affairs/static/js/runtime-main.db0952c9.js.map",
+    "static/js/2.0f6f6271.chunk.js": "/Current_IndoWorld_Affairs/static/js/2.0f6f6271.chunk.js",
+    "static/js/2.0f6f6271.chunk.js.map": "/Current_IndoWorld_Affairs/static/js/2.0f6f6271.chunk.js.map",
+    "static/js/3.6e6d2d44.chunk.js": "/Current_IndoWorld_Affairs/static/js/3.6e6d2d44.chunk.js",
+    "static/js/3.6e6d2d44.chunk.js.map": "/Current_IndoWorld_Affairs/static/js/3.6e6d2d44.chunk.js.map",
+    "index.html": "/Current_IndoWorld_Affairs/index.html",
+    "static/css/main.c93bd4cb.chunk.css.map": "/Current_IndoWorld_Affairs/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.0f6f6271.chunk.js.LICENSE.txt": "/Current_IndoWorld_Affairs/static/js/2.0f6f6271.chunk.js.LICENSE.txt",
+    "static/media/bn.b1fd9b5a.png": "/Current_IndoWorld_Affairs/static/media/bn.b1fd9b5a.png",
+    "static/media/loading.38efe1ee.gif": "/Current_IndoWorld_Affairs/static/media/loading.38efe1ee.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db0952c9.js",
+    "static/js/2.0f6f6271.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.6cf85bae.chunk.js"
+  ]
+}
