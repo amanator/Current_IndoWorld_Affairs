@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Current_IndoWorld_Affairs/static/css/main.c93bd4cb.chunk.css",
-    "main.js": "/Current_IndoWorld_Affairs/static/js/main.6cf85bae.chunk.js",
-    "main.js.map": "/Current_IndoWorld_Affairs/static/js/main.6cf85bae.chunk.js.map",
+    "main.js": "/Current_IndoWorld_Affairs/static/js/main.46e09f97.chunk.js",
+    "main.js.map": "/Current_IndoWorld_Affairs/static/js/main.46e09f97.chunk.js.map",
     "runtime-main.js": "/Current_IndoWorld_Affairs/static/js/runtime-main.db0952c9.js",
     "runtime-main.js.map": "/Current_IndoWorld_Affairs/static/js/runtime-main.db0952c9.js.map",
     "static/js/2.0f6f6271.chunk.js": "/Current_IndoWorld_Affairs/static/js/2.0f6f6271.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.db0952c9.js",
     "static/js/2.0f6f6271.chunk.js",
     "static/css/main.c93bd4cb.chunk.css",
-    "static/js/main.6cf85bae.chunk.js"
+    "static/js/main.46e09f97.chunk.js"
   ]
 }
